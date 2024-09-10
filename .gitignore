@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/WeatherForecast/v17/TestStore/1/testlog.manifest
+/.vs/WeatherForecast/v17/TestStore/1/000.testlog
+/.vs/WeatherForecast/v17/.suo
+/.vs/WeatherForecast/v17/.futdcache.v2
+/.vs/WeatherForecast/FileContentIndex/b0400ed7-fa08-4137-9ae9-aef6e0c306c5.vsidx
+/.vs/WeatherForecast/DesignTimeBuild/.dtbcache.v2
+/.vs/ProjectEvaluation/weatherforecast.projects.v6.1
+/.vs/ProjectEvaluation/weatherforecast.metadata.v6.1
+/.vs/WeatherForecast/FileContentIndex/d9ccf564-054d-4f0e-a9ab-d0db9b23a017.vsidx
+/.vs/WeatherForecast/FileContentIndex/5fbeb0eb-91b7-4d30-b744-307ccda4dcf4.vsidx
